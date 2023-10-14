@@ -1,0 +1,14 @@
+/build/
+build/
+
+# From https://github.com/github/gitignore/blob/master/Java.gitignore
+*.class
+
+# IntelliJ
+/out/
+.idea_modules/
+.idea
+.idea/
+bin
+bin/
+
